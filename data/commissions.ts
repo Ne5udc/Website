@@ -67,13 +67,13 @@ export const tiers: Tier[] = [
 export const kinklist = {
   will: [
     "SFW & NSFW of all kinds",
-    "Feral & anthro (must own the characters or have the files necessary for work in blender)",
+    "anthro , human",
     "Facesitting, watersports, musk",
     "Paw play, trampling, macro/micro",
-    "Scat, fart content",
     "Non-con / dub-con scenarios (fictional characters)",
     "Bondage, BDSM, size difference",
-    "Vore ( hard soft ), gore"
+    "Vore ( hard soft ), gore",
+    "if what you want to comission me is not on this list but doesn't appear on won't do list reach out and ask :)"
   ],
   wont: [
     "Anything involving minors or cub — instant decline, no exceptions",
