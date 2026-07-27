@@ -30,7 +30,7 @@ export const queue: QueueEntry[] = [
   { id: "q1", client: "KnuffelFratz", tier: "Full Scene 2x", progress: 65, status: "in-progress" },
   { id: "q2", client: "Varah Fox", tier: "Full scene 2x", progress: 55, status: "in-progress", nsfw: true },
   { id: "q3", client: "Pasomind", tier: "Full Scene", progress: 30, status: "in-progress" },
-  { id: "q4", client: "Spency", tier: "Full Scene 6x", progress: 100, status: "Delivered" },
+
 ];
 
 export const tiers: Tier[] = [
@@ -58,8 +58,8 @@ export const tiers: Tier[] = [
   {
     name: "Animations",
     price: "---",
-    description: "Coming Soon",
-    example: "/renders/example_scene.webp",
+    description: "Coming Soon egzample by blammyshmoozled ( go check em out )",
+    example: "/renders/example_scene.gif",
     includes: ["Coming Soon"],
   },
 ];
@@ -67,13 +67,13 @@ export const tiers: Tier[] = [
 export const kinklist = {
   will: [
     "SFW & NSFW of all kinds",
-    "anthro , human",
+    "Anthro , Human",
     "Facesitting, watersports, musk",
     "Paw play, trampling, macro/micro",
     "Non-con / dub-con scenarios (fictional characters)",
     "Bondage, BDSM, size difference",
     "Vore ( hard soft ), gore",
-    "if what you want to comission me is not on this list but doesn't appear on won't do list reach out and ask :)"
+    "if what you want to comission me for is not on this list but doesn't appear on won't do list either, reach out and ask :)"
   ],
   wont: [
     "Anything involving minors or cub — instant decline, no exceptions",
