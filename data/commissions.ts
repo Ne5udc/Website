@@ -29,8 +29,7 @@ export type QueueEntry = {
 export const queue: QueueEntry[] = [
   { id: "q1", client: "KnuffelFratz", tier: "Full Scene 2x", progress: 65, status: "in-progress" },
   { id: "q2", client: "Varah Fox", tier: "Full scene 2x", progress: 55, status: "in-progress", nsfw: true },
-  { id: "q3", client: "Pasomind", tier: "Full Scene", progress: 30, status: "in-progress" },
-
+  { id: "q3", client: "Pasomind", tier: "Full Scene", progress: 30, status: "in-progress" }
 ];
 
 export const tiers: Tier[] = [
